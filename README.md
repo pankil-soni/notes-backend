@@ -1,5 +1,7 @@
 # notes-backend
 
 ## Test users : 
-gmail- user@example.com 
-pass:- 1234@User 
+| Username     | Password       |
+| ------------ | -------------- |
+| example_user | example_pass   |
+| test_user    | test_pass      |
