@@ -3,5 +3,5 @@
 ## Test users : 
 | Username     | Password       |
 | ------------ | -------------- |
-| example_user | example_pass   |
-| test_user    | test_pass      |
+| user@example.com | 1234@User  |
+| john@example.com | 1234@John  |
